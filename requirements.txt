@@ -1,0 +1,7 @@
+Flask
+gunicorn
+requests
+aiohttp
+protobuf
+pycryptodome
+redis
